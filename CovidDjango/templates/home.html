@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="{% static 'favicon.ico' %}" />
+    <title>Covid OpenApp Test - Rafael Marinho</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<body>
+    <header class="container">
+        <h1><strong>COVID OpenApp Test - Rafael Marinho (@RafahMarinho) </strong></h1>
+        <a href="./statistics"><button class="btn btn-primary col-12 m-3">STATISTICS API</button></a>
+    </header>
+    <main>
+        <article class="card">
+            <header class="card__header"><img class="card__header--thumb" src="{% static 'img/covid.jpg' %}" /></header>
+            <section class="card__date"><span class="card__date--day">11</span><span class="card__date--month">Mar</span>
+            </section>
+            <section class="card__body">
+                <h5 class="card__body--category"> <a href="#">COVID-19</a></h5>
+                <h1 class="card__body--title"> <a href="#">OpenApp Test</a></h1>
+                <h2 class="card__body--subtitle">@RafahMarinho</h2>
+                <p class="card__body--description">Congratulations, you have configured the repository correctly, click the
+                    blue button above to view the API consumption.For POST, PUT and DELETE requests, use POSTMAN on your
+                    localhost.</p>
+            </section>
+            <footer class="card__footer"><span class="icon icon--time">6h</span><span class="icon icon--comment">time spent
+                    in production</span></footer>
+        </article>
+    </main >
+</body>
+
+</html>

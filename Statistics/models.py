@@ -17,18 +17,14 @@ from django.db import models
 # "lastUpdate": "2021-11-11T17:15:03+01:00"
 # }
 
-class Location(models.Model):
+class Statistics(models.Model):
     Country = models.CharField(max_length=50)
     Code = models.CharField(max_length=5)
-    
-class StatisticsCVD(models.Model):
-    Confirmed = models.IntegerField()
-    Recovered = models.IntegerField()
-    Critical = models.IntegerField()
-    Deaths = models.IntegerField()
-
-class Logs(models.Model):
-    latitude = models.DecimalField(max_digits=9, decimal_places=6)
-    longitude = models.DecimalField(max_digits=9, decimal_places=6)
+    NewConfirmed = models.IntegerField()
+    TotalConfirmed = models.IntegerField()
+    NewDeaths = models.IntegerField()
+    TotalDeaths = models.IntegerField()
+    NewRecovered = models.IntegerField()
+    TotalRecovered = models.IntegerField()
     lastChange = models.DateTimeField(auto_now=True)
     lastUpdate = models.DateTimeField(auto_now_add=True)

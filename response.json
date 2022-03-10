@@ -1,0 +1,1942 @@
+[
+    {
+        "Country": "Afghanistan",
+        "Code": "AF",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 175525,
+        "NewDeaths": 0,
+        "TotalDeaths": 7636,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Albania",
+        "Code": "AL",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 272412,
+        "NewDeaths": 0,
+        "TotalDeaths": 3483,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Algeria",
+        "Code": "DZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 265346,
+        "NewDeaths": 0,
+        "TotalDeaths": 6860,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Andorra",
+        "Code": "AD",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 38794,
+        "NewDeaths": 0,
+        "TotalDeaths": 152,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Angola",
+        "Code": "AO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 98855,
+        "NewDeaths": 0,
+        "TotalDeaths": 1900,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Antarctica",
+        "Code": "AQ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 11,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Antigua and Barbuda",
+        "Code": "AG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7461,
+        "NewDeaths": 0,
+        "TotalDeaths": 135,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Argentina",
+        "Code": "AR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 8955458,
+        "NewDeaths": 0,
+        "TotalDeaths": 126955,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Armenia",
+        "Code": "AM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 421592,
+        "NewDeaths": 0,
+        "TotalDeaths": 8560,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Australia",
+        "Code": "AU",
+        "NewConfirmed": 36335,
+        "TotalConfirmed": 3496205,
+        "NewDeaths": 25,
+        "TotalDeaths": 5520,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Austria",
+        "Code": "AT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2972647,
+        "NewDeaths": 0,
+        "TotalDeaths": 15113,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Azerbaijan",
+        "Code": "AZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 789883,
+        "NewDeaths": 0,
+        "TotalDeaths": 9558,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Bahamas",
+        "Code": "BS",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 33180,
+        "NewDeaths": 0,
+        "TotalDeaths": 771,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Bahrain",
+        "Code": "BH",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 532265,
+        "NewDeaths": 0,
+        "TotalDeaths": 1462,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Bangladesh",
+        "Code": "BD",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1948471,
+        "NewDeaths": 0,
+        "TotalDeaths": 29097,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Barbados",
+        "Code": "BB",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 56551,
+        "NewDeaths": 0,
+        "TotalDeaths": 323,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Belarus",
+        "Code": "BY",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 934187,
+        "NewDeaths": 0,
+        "TotalDeaths": 6608,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Belgium",
+        "Code": "BE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3609122,
+        "NewDeaths": 0,
+        "TotalDeaths": 30313,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Belize",
+        "Code": "BZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 56976,
+        "NewDeaths": 0,
+        "TotalDeaths": 652,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Benin",
+        "Code": "BJ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 26575,
+        "NewDeaths": 0,
+        "TotalDeaths": 163,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Bhutan",
+        "Code": "BT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 15946,
+        "NewDeaths": 0,
+        "TotalDeaths": 7,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Bolivia",
+        "Code": "BO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 896315,
+        "NewDeaths": 0,
+        "TotalDeaths": 21470,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Code": "BA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 372817,
+        "NewDeaths": 0,
+        "TotalDeaths": 15599,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Botswana",
+        "Code": "BW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 263950,
+        "NewDeaths": 0,
+        "TotalDeaths": 2619,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Brazil",
+        "Code": "BR",
+        "NewConfirmed": 45783,
+        "TotalConfirmed": 29198101,
+        "NewDeaths": 633,
+        "TotalDeaths": 653767,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Brunei Darussalam",
+        "Code": "BN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 100173,
+        "NewDeaths": 0,
+        "TotalDeaths": 155,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Bulgaria",
+        "Code": "BG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1107888,
+        "NewDeaths": 0,
+        "TotalDeaths": 35995,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Burkina Faso",
+        "Code": "BF",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 20751,
+        "NewDeaths": 0,
+        "TotalDeaths": 375,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Burundi",
+        "Code": "BI",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 38209,
+        "NewDeaths": 0,
+        "TotalDeaths": 38,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Cambodia",
+        "Code": "KH",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 133263,
+        "NewDeaths": 0,
+        "TotalDeaths": 3043,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Cameroon",
+        "Code": "CM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 119322,
+        "NewDeaths": 0,
+        "TotalDeaths": 1926,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Canada",
+        "Code": "CA",
+        "NewConfirmed": 6724,
+        "TotalConfirmed": 2826678,
+        "NewDeaths": 52,
+        "TotalDeaths": 33220,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Cape Verde",
+        "Code": "CV",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 55904,
+        "NewDeaths": 0,
+        "TotalDeaths": 401,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Central African Republic",
+        "Code": "CF",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 14320,
+        "NewDeaths": 0,
+        "TotalDeaths": 113,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Chad",
+        "Code": "TD",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7260,
+        "NewDeaths": 0,
+        "TotalDeaths": 190,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Chile",
+        "Code": "CL",
+        "NewConfirmed": 16467,
+        "TotalConfirmed": 3230793,
+        "NewDeaths": 23,
+        "TotalDeaths": 43283,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "China",
+        "Code": "CN",
+        "NewConfirmed": 26284,
+        "TotalConfirmed": 663465,
+        "NewDeaths": 291,
+        "TotalDeaths": 7505,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Colombia",
+        "Code": "CO",
+        "NewConfirmed": 739,
+        "TotalConfirmed": 6074155,
+        "NewDeaths": 35,
+        "TotalDeaths": 139189,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Comoros",
+        "Code": "KM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 8051,
+        "NewDeaths": 0,
+        "TotalDeaths": 160,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Congo (Brazzaville)",
+        "Code": "CG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 24041,
+        "NewDeaths": 0,
+        "TotalDeaths": 378,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Congo (Kinshasa)",
+        "Code": "CD",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 86271,
+        "NewDeaths": 0,
+        "TotalDeaths": 1335,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Costa Rica",
+        "Code": "CR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 820445,
+        "NewDeaths": 0,
+        "TotalDeaths": 8142,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Croatia",
+        "Code": "HR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1067589,
+        "NewDeaths": 0,
+        "TotalDeaths": 15276,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Cuba",
+        "Code": "CU",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1074469,
+        "NewDeaths": 0,
+        "TotalDeaths": 8502,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Cyprus",
+        "Code": "CY",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 341383,
+        "NewDeaths": 0,
+        "TotalDeaths": 886,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Czech Republic",
+        "Code": "CZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3653041,
+        "NewDeaths": 0,
+        "TotalDeaths": 39032,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Côte d'Ivoire",
+        "Code": "CI",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 81571,
+        "NewDeaths": 0,
+        "TotalDeaths": 795,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Denmark",
+        "Code": "DK",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2955211,
+        "NewDeaths": 0,
+        "TotalDeaths": 5056,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Djibouti",
+        "Code": "DJ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 15564,
+        "NewDeaths": 0,
+        "TotalDeaths": 189,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Dominica",
+        "Code": "DM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 11462,
+        "NewDeaths": 0,
+        "TotalDeaths": 62,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Dominican Republic",
+        "Code": "DO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 576220,
+        "NewDeaths": 0,
+        "TotalDeaths": 4372,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Ecuador",
+        "Code": "EC",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 843760,
+        "NewDeaths": 0,
+        "TotalDeaths": 35316,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Egypt",
+        "Code": "EG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 493658,
+        "NewDeaths": 0,
+        "TotalDeaths": 24257,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "El Salvador",
+        "Code": "SV",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 156364,
+        "NewDeaths": 0,
+        "TotalDeaths": 4093,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Equatorial Guinea",
+        "Code": "GQ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 15894,
+        "NewDeaths": 0,
+        "TotalDeaths": 183,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Eritrea",
+        "Code": "ER",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 9718,
+        "NewDeaths": 0,
+        "TotalDeaths": 103,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Estonia",
+        "Code": "EE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 523279,
+        "NewDeaths": 0,
+        "TotalDeaths": 2320,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Ethiopia",
+        "Code": "ET",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 469095,
+        "NewDeaths": 0,
+        "TotalDeaths": 7482,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Fiji",
+        "Code": "FJ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 64060,
+        "NewDeaths": 0,
+        "TotalDeaths": 834,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Finland",
+        "Code": "FI",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 703052,
+        "NewDeaths": 0,
+        "TotalDeaths": 2573,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "France",
+        "Code": "FR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 23417253,
+        "NewDeaths": 0,
+        "TotalDeaths": 140797,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Gabon",
+        "Code": "GA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 47564,
+        "NewDeaths": 0,
+        "TotalDeaths": 303,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Gambia",
+        "Code": "GM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 11963,
+        "NewDeaths": 0,
+        "TotalDeaths": 365,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Georgia",
+        "Code": "GE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1629930,
+        "NewDeaths": 0,
+        "TotalDeaths": 16456,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Germany",
+        "Code": "DE",
+        "NewConfirmed": 262785,
+        "TotalConfirmed": 16588872,
+        "NewDeaths": 259,
+        "TotalDeaths": 125028,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Ghana",
+        "Code": "GH",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 160667,
+        "NewDeaths": 0,
+        "TotalDeaths": 1444,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Greece",
+        "Code": "GR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2561503,
+        "NewDeaths": 0,
+        "TotalDeaths": 26366,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Grenada",
+        "Code": "GD",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 13690,
+        "NewDeaths": 0,
+        "TotalDeaths": 216,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Guatemala",
+        "Code": "GT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 798400,
+        "NewDeaths": 0,
+        "TotalDeaths": 17116,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Guinea",
+        "Code": "GN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 36427,
+        "NewDeaths": 0,
+        "TotalDeaths": 440,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Guinea-Bissau",
+        "Code": "GW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 8039,
+        "NewDeaths": 0,
+        "TotalDeaths": 168,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Guyana",
+        "Code": "GY",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 63090,
+        "NewDeaths": 0,
+        "TotalDeaths": 1224,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Haiti",
+        "Code": "HT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 30430,
+        "NewDeaths": 0,
+        "TotalDeaths": 827,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Holy See (Vatican City State)",
+        "Code": "VA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 29,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Honduras",
+        "Code": "HN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 414714,
+        "NewDeaths": 0,
+        "TotalDeaths": 10812,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Hungary",
+        "Code": "HU",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1809917,
+        "NewDeaths": 0,
+        "TotalDeaths": 44549,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Iceland",
+        "Code": "IS",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 153244,
+        "NewDeaths": 0,
+        "TotalDeaths": 76,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "India",
+        "Code": "IN",
+        "NewConfirmed": 4184,
+        "TotalConfirmed": 42980067,
+        "NewDeaths": 104,
+        "TotalDeaths": 515459,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Indonesia",
+        "Code": "IN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5826589,
+        "NewDeaths": 0,
+        "TotalDeaths": 151135,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Iran, Islamic Republic of",
+        "Code": "IR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7107167,
+        "NewDeaths": 0,
+        "TotalDeaths": 138433,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Iraq",
+        "Code": "IQ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2310539,
+        "NewDeaths": 0,
+        "TotalDeaths": 25082,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Ireland",
+        "Code": "IE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1328644,
+        "NewDeaths": 0,
+        "TotalDeaths": 6578,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Israel",
+        "Code": "IL",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3690974,
+        "NewDeaths": 0,
+        "TotalDeaths": 10322,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Italy",
+        "Code": "IT",
+        "NewConfirmed": 49815,
+        "TotalConfirmed": 13159342,
+        "NewDeaths": 156,
+        "TotalDeaths": 156357,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Jamaica",
+        "Code": "JM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 128246,
+        "NewDeaths": 0,
+        "TotalDeaths": 2835,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Japan",
+        "Code": "JP",
+        "NewConfirmed": 63672,
+        "TotalConfirmed": 5549755,
+        "NewDeaths": 213,
+        "TotalDeaths": 25530,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Jordan",
+        "Code": "JO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1654677,
+        "NewDeaths": 0,
+        "TotalDeaths": 13882,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Kazakhstan",
+        "Code": "KZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1392427,
+        "NewDeaths": 0,
+        "TotalDeaths": 18983,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Kenya",
+        "Code": "KE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 323129,
+        "NewDeaths": 0,
+        "TotalDeaths": 5641,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Kiribati",
+        "Code": "KI",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3006,
+        "NewDeaths": 0,
+        "TotalDeaths": 13,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Korea (South)",
+        "Code": "KR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5539650,
+        "NewDeaths": 0,
+        "TotalDeaths": 9646,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Kuwait",
+        "Code": "KW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 624573,
+        "NewDeaths": 0,
+        "TotalDeaths": 2549,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Code": "KG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 200671,
+        "NewDeaths": 0,
+        "TotalDeaths": 2969,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Lao PDR",
+        "Code": "LA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 144759,
+        "NewDeaths": 0,
+        "TotalDeaths": 634,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Latvia",
+        "Code": "LV",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 719813,
+        "NewDeaths": 0,
+        "TotalDeaths": 5384,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Lebanon",
+        "Code": "LB",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1081463,
+        "NewDeaths": 0,
+        "TotalDeaths": 10176,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Lesotho",
+        "Code": "LS",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 32716,
+        "NewDeaths": 0,
+        "TotalDeaths": 697,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Liberia",
+        "Code": "LR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7387,
+        "NewDeaths": 0,
+        "TotalDeaths": 294,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Libya",
+        "Code": "LY",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 499132,
+        "NewDeaths": 0,
+        "TotalDeaths": 6321,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Liechtenstein",
+        "Code": "LI",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 13471,
+        "NewDeaths": 0,
+        "TotalDeaths": 79,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Lithuania",
+        "Code": "LT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 944968,
+        "NewDeaths": 0,
+        "TotalDeaths": 8562,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Luxembourg",
+        "Code": "LU",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 189830,
+        "NewDeaths": 0,
+        "TotalDeaths": 1000,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Macedonia, Republic of",
+        "Code": "MK",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 300398,
+        "NewDeaths": 0,
+        "TotalDeaths": 9104,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Madagascar",
+        "Code": "MG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 63791,
+        "NewDeaths": 0,
+        "TotalDeaths": 1373,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Malawi",
+        "Code": "MW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 85461,
+        "NewDeaths": 0,
+        "TotalDeaths": 2620,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Malaysia",
+        "Code": "MY",
+        "NewConfirmed": 30246,
+        "TotalConfirmed": 3711199,
+        "NewDeaths": 113,
+        "TotalDeaths": 33497,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Maldives",
+        "Code": "MV",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 173666,
+        "NewDeaths": 0,
+        "TotalDeaths": 297,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Mali",
+        "Code": "ML",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 30402,
+        "NewDeaths": 0,
+        "TotalDeaths": 725,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Malta",
+        "Code": "MT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 72268,
+        "NewDeaths": 0,
+        "TotalDeaths": 612,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Marshall Islands",
+        "Code": "MH",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Mauritania",
+        "Code": "MR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 58656,
+        "NewDeaths": 0,
+        "TotalDeaths": 981,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Mauritius",
+        "Code": "MU",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 169796,
+        "NewDeaths": 0,
+        "TotalDeaths": 904,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Mexico",
+        "Code": "MX",
+        "NewConfirmed": 8385,
+        "TotalConfirmed": 5583993,
+        "NewDeaths": 242,
+        "TotalDeaths": 320408,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Micronesia, Federated States of",
+        "Code": "FM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Moldova",
+        "Code": "MD",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 506222,
+        "NewDeaths": 0,
+        "TotalDeaths": 11304,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Monaco",
+        "Code": "MC",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 9654,
+        "NewDeaths": 0,
+        "TotalDeaths": 51,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Mongolia",
+        "Code": "MN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 914016,
+        "NewDeaths": 0,
+        "TotalDeaths": 2177,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Montenegro",
+        "Code": "ME",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 231227,
+        "NewDeaths": 0,
+        "TotalDeaths": 2690,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Morocco",
+        "Code": "MA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1161848,
+        "NewDeaths": 0,
+        "TotalDeaths": 16029,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Mozambique",
+        "Code": "MZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 225159,
+        "NewDeaths": 0,
+        "TotalDeaths": 2198,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Myanmar",
+        "Code": "MM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 602321,
+        "NewDeaths": 0,
+        "TotalDeaths": 19398,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Namibia",
+        "Code": "NA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 157366,
+        "NewDeaths": 0,
+        "TotalDeaths": 4014,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Nepal",
+        "Code": "NP",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 977709,
+        "NewDeaths": 0,
+        "TotalDeaths": 11949,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Netherlands",
+        "Code": "NL",
+        "NewConfirmed": 74236,
+        "TotalConfirmed": 6996231,
+        "NewDeaths": 10,
+        "TotalDeaths": 21655,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "New Zealand",
+        "Code": "NZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 286752,
+        "NewDeaths": 0,
+        "TotalDeaths": 65,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Nicaragua",
+        "Code": "NI",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 18203,
+        "NewDeaths": 0,
+        "TotalDeaths": 226,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Niger",
+        "Code": "NE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 8774,
+        "NewDeaths": 0,
+        "TotalDeaths": 307,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Nigeria",
+        "Code": "NG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 254777,
+        "NewDeaths": 0,
+        "TotalDeaths": 3142,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Norway",
+        "Code": "NO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1333793,
+        "NewDeaths": 0,
+        "TotalDeaths": 1753,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Oman",
+        "Code": "OM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 385769,
+        "NewDeaths": 0,
+        "TotalDeaths": 4249,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Pakistan",
+        "Code": "PK",
+        "NewConfirmed": 639,
+        "TotalConfirmed": 1516789,
+        "NewDeaths": 4,
+        "TotalDeaths": 30291,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Palau",
+        "Code": "PW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3888,
+        "NewDeaths": 0,
+        "TotalDeaths": 6,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Palestinian Territory",
+        "Code": "PS",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 652763,
+        "NewDeaths": 0,
+        "TotalDeaths": 5588,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Panama",
+        "Code": "PA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 758613,
+        "NewDeaths": 0,
+        "TotalDeaths": 8125,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Code": "PG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 41533,
+        "NewDeaths": 0,
+        "TotalDeaths": 639,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Paraguay",
+        "Code": "PY",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 645020,
+        "NewDeaths": 0,
+        "TotalDeaths": 18510,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Peru",
+        "Code": "PE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3528939,
+        "NewDeaths": 0,
+        "TotalDeaths": 211252,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Philippines",
+        "Code": "PH",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3669283,
+        "NewDeaths": 0,
+        "TotalDeaths": 57182,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Poland",
+        "Code": "PL",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5774938,
+        "NewDeaths": 0,
+        "TotalDeaths": 113002,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Portugal",
+        "Code": "PT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3367469,
+        "NewDeaths": 0,
+        "TotalDeaths": 21267,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Qatar",
+        "Code": "QA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 358694,
+        "NewDeaths": 0,
+        "TotalDeaths": 672,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Republic of Kosovo",
+        "Code": "XK",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 226729,
+        "NewDeaths": 0,
+        "TotalDeaths": 3122,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Romania",
+        "Code": "RO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2781086,
+        "NewDeaths": 0,
+        "TotalDeaths": 64156,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Russian Federation",
+        "Code": "RU",
+        "NewConfirmed": 57787,
+        "TotalConfirmed": 16893631,
+        "NewDeaths": 634,
+        "TotalDeaths": 351124,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Rwanda",
+        "Code": "RW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 129569,
+        "NewDeaths": 0,
+        "TotalDeaths": 1459,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Saint Kitts and Nevis",
+        "Code": "KN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5537,
+        "NewDeaths": 0,
+        "TotalDeaths": 42,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Saint Lucia",
+        "Code": "LC",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 22811,
+        "NewDeaths": 0,
+        "TotalDeaths": 364,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Saint Vincent and Grenadines",
+        "Code": "VC",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 8321,
+        "NewDeaths": 0,
+        "TotalDeaths": 106,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Samoa",
+        "Code": "WS",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 41,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "San Marino",
+        "Code": "SM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 14629,
+        "NewDeaths": 0,
+        "TotalDeaths": 112,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Sao Tome and Principe",
+        "Code": "ST",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5939,
+        "NewDeaths": 0,
+        "TotalDeaths": 72,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Code": "SA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 748121,
+        "NewDeaths": 0,
+        "TotalDeaths": 9013,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Senegal",
+        "Code": "SN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 85775,
+        "NewDeaths": 0,
+        "TotalDeaths": 1962,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Serbia",
+        "Code": "RS",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1932814,
+        "NewDeaths": 0,
+        "TotalDeaths": 15512,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Seychelles",
+        "Code": "SC",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 39605,
+        "NewDeaths": 0,
+        "TotalDeaths": 163,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Sierra Leone",
+        "Code": "SL",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 7666,
+        "NewDeaths": 0,
+        "TotalDeaths": 125,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Singapore",
+        "Code": "SG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 885593,
+        "NewDeaths": 0,
+        "TotalDeaths": 1110,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Slovakia",
+        "Code": "SK",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 2231352,
+        "NewDeaths": 0,
+        "TotalDeaths": 18786,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Slovenia",
+        "Code": "SI",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 909863,
+        "NewDeaths": 0,
+        "TotalDeaths": 6382,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Solomon Islands",
+        "Code": "SB",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 8491,
+        "NewDeaths": 0,
+        "TotalDeaths": 118,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Somalia",
+        "Code": "SO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 26400,
+        "NewDeaths": 0,
+        "TotalDeaths": 1359,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "South Africa",
+        "Code": "ZA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3688423,
+        "NewDeaths": 0,
+        "TotalDeaths": 99656,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "South Sudan",
+        "Code": "SS",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 17034,
+        "NewDeaths": 0,
+        "TotalDeaths": 137,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Spain",
+        "Code": "ES",
+        "NewConfirmed": 21936,
+        "TotalConfirmed": 11181510,
+        "NewDeaths": 133,
+        "TotalDeaths": 100992,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Sri Lanka",
+        "Code": "LK",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 654336,
+        "NewDeaths": 0,
+        "TotalDeaths": 16361,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Sudan",
+        "Code": "SD",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 61643,
+        "NewDeaths": 0,
+        "TotalDeaths": 4865,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Suriname",
+        "Code": "SR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 78654,
+        "NewDeaths": 0,
+        "TotalDeaths": 1319,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Swaziland",
+        "Code": "SZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 69351,
+        "NewDeaths": 0,
+        "TotalDeaths": 1391,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Sweden",
+        "Code": "SE",
+        "NewConfirmed": 2169,
+        "TotalConfirmed": 2462952,
+        "NewDeaths": 144,
+        "TotalDeaths": 17693,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Switzerland",
+        "Code": "CH",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3008537,
+        "NewDeaths": 0,
+        "TotalDeaths": 13213,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Syrian Arab Republic (Syria)",
+        "Code": "SY",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 55193,
+        "NewDeaths": 0,
+        "TotalDeaths": 3105,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Taiwan, Republic of China",
+        "Code": "TW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 20999,
+        "NewDeaths": 0,
+        "TotalDeaths": 853,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Tajikistan",
+        "Code": "TJ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 17786,
+        "NewDeaths": 0,
+        "TotalDeaths": 125,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Tanzania, United Republic of",
+        "Code": "TZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 33726,
+        "NewDeaths": 0,
+        "TotalDeaths": 800,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Thailand",
+        "Code": "TH",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 3111857,
+        "NewDeaths": 0,
+        "TotalDeaths": 23512,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Timor-Leste",
+        "Code": "TL",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 22777,
+        "NewDeaths": 0,
+        "TotalDeaths": 129,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Togo",
+        "Code": "TG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 36843,
+        "NewDeaths": 0,
+        "TotalDeaths": 272,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Tonga",
+        "Code": "TO",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1220,
+        "NewDeaths": 0,
+        "TotalDeaths": 0,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Trinidad and Tobago",
+        "Code": "TT",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 131378,
+        "NewDeaths": 0,
+        "TotalDeaths": 3669,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Tunisia",
+        "Code": "TN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 1017907,
+        "NewDeaths": 0,
+        "TotalDeaths": 27989,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Turkey",
+        "Code": "TR",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 14458881,
+        "NewDeaths": 0,
+        "TotalDeaths": 95954,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Uganda",
+        "Code": "UG",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 163454,
+        "NewDeaths": 0,
+        "TotalDeaths": 3593,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Ukraine",
+        "Code": "UA",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5040518,
+        "NewDeaths": 0,
+        "TotalDeaths": 112459,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Code": "AE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 883985,
+        "NewDeaths": 0,
+        "TotalDeaths": 2302,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "United Kingdom",
+        "Code": "GB",
+        "NewConfirmed": 68655,
+        "TotalConfirmed": 19515547,
+        "NewDeaths": 123,
+        "TotalDeaths": 163059,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "United States of America",
+        "Code": "US",
+        "NewConfirmed": 37595,
+        "TotalConfirmed": 79406602,
+        "NewDeaths": 1976,
+        "TotalDeaths": 963819,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Uruguay",
+        "Code": "UY",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 859165,
+        "NewDeaths": 0,
+        "TotalDeaths": 7069,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Uzbekistan",
+        "Code": "UZ",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 237045,
+        "NewDeaths": 0,
+        "TotalDeaths": 1637,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Vanuatu",
+        "Code": "VU",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 95,
+        "NewDeaths": 0,
+        "TotalDeaths": 1,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Venezuela (Bolivarian Republic)",
+        "Code": "VE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 517164,
+        "NewDeaths": 0,
+        "TotalDeaths": 5652,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Viet Nam",
+        "Code": "VN",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 5042036,
+        "NewDeaths": 0,
+        "TotalDeaths": 41086,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Yemen",
+        "Code": "YE",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 11781,
+        "NewDeaths": 0,
+        "TotalDeaths": 2138,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Zambia",
+        "Code": "ZM",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 314641,
+        "NewDeaths": 0,
+        "TotalDeaths": 3960,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    },
+    {
+        "Country": "Zimbabwe",
+        "Code": "ZW",
+        "NewConfirmed": 0,
+        "TotalConfirmed": 240343,
+        "NewDeaths": 0,
+        "TotalDeaths": 5400,
+        "NewRecovered": 0,
+        "TotalRecovered": 0
+    }
+]
